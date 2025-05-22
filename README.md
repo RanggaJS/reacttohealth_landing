@@ -1,5 +1,3 @@
-https://reacttohealth.netlify.app/
-
 # NutriLife - Healthy Diet & Nutrition Guide
 
 https://reacttohealth.netlify.app/
