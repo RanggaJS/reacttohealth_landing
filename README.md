@@ -2,6 +2,8 @@ https://reacttohealth.netlify.app/
 
 # NutriLife - Healthy Diet & Nutrition Guide
 
+https://reacttohealth.netlify.app/
+
 A modern, responsive web application built with React and TypeScript that helps users make better nutritional choices for a healthier lifestyle.
 
 ![NutriLife Screenshot](https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
